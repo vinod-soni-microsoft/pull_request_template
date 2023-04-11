@@ -1,4 +1,4 @@
-7 GitHub pull request template examples
+7 GitHub pull request template examples -
 
 
 Here are 7 examples of pull request template we made and found on the web: 
